@@ -9,6 +9,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	지켜보고있노라.
+	수정중인 너를 지켜보고있노라.
 </body>
 </html>
