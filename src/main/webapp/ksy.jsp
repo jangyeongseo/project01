@@ -18,7 +18,7 @@
 <body>
 	<div>
 	<h2>저는 스파이입니다~~~~</h2>
-	
+	<a href="http://10.5.5.12/chat.jsp"><button>단톡방 가기</button></a>
 	</div>
 </body>
 </html>
